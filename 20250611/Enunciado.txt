@@ -1,0 +1,12 @@
+
+1) Una fábrica dispone de tres máquinas que por día realizan tres órdenes de producción. Se desea registrar la información del trabajo de la fábrica de un día en particular.
+
+Por cada orden de producción se registra:
+- Nro de Máquina (entero positivo)
+- Cantidad de piezas producidas (entero)
+- Tiempo de producción (entero en minutos)
+
+La información se encuentra agrupada por número de máquina. Se pide calcular e informar:
+- Por cada máquina, la cantidad total de piezas producidas.
+- La cantidad de máquinas que produjeron más de 30 piezas en total.
+- El tiempo de producción promedio entre todas las órdenes de producción.
